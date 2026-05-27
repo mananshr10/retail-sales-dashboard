@@ -1,5 +1,5 @@
 # Retail Sales Analytics Dashboard
-
+![Dashboard Preview]()
 Designed and developed an end-to-end Retail Sales Analytics Dashboard that transforms 
 1,000 real transactions into clear, actionable business insights for smarter decision-making.
 
